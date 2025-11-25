@@ -1,0 +1,2 @@
+class NoOrgIDError(Exception):
+    pass
